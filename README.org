@@ -1,1 +1,20 @@
-[[https://wokwi.com/projects/401831442593590273][WOKWI Projekt]]
+#+TITLE: Workshop: Messing with MicroPython
+
+This is a small project built in a workshop at the [[https://www.fh-wedel.de/][FH Wedel]] lead by [[https://www.fh-wedel.de/wir/organisation/team/detail/profil/profile/show/Timm-Bostelmann/][Timm Bostelmann]].
+
+It combines reading a digital gyroscope sensor via I2C with utilizing the proprietary [[https://www.espressif.com/en/solutions/low-power-solutions/esp-now][ESP-NOW]] protocol for communication between multiple [[https://www.espressif.com/en/products/devkits/esp32-devkitc][ESP32 DevKitC]] boards.
+
+The setup can be simulated online using [[https://wokwi.com/projects/401831442593590273][Wokwi]].
+
+* Contributors
+- Christian Emeis
+- Leon Lilje
+- Lukas Krämer
+- Oliver Stroemer
+
+* Setup
+** Board
+[[./imgs/board.jpg]]
+
+** Tester
+[[./imgs/tester.jpg]]
